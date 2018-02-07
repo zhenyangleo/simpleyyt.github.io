@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 盗梦空间音乐会版
+tags: [盗梦空间, 音乐]
 ---
 
 Time《时间》以及 Dream is Collapsing《崩塌的梦》
