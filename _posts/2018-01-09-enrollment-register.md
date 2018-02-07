@@ -1,10 +1,7 @@
 ---
-tags:
-  - 专转本
-  - 报名
+tags: [专转本, 报名]
 layout: post
 title: 关于组织2018年 “专转本”报名工作的通知
-category: Daily
 ---
 
 <!--more-->
