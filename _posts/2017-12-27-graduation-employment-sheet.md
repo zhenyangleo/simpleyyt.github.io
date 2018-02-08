@@ -1,14 +1,17 @@
 ---
 layout: post
 title: 关于发放2018届毕业生就业推荐表协议书的通知
+tags: [推荐表, 协议书, 发放, 领取]
 ---
 
 **各位同学:**
 
 2018届毕业生推荐表协议书发放工作即将开始！
 
-[什么是推荐表？](https://baike.baidu.com/item/%E5%B0%B1%E4%B8%9A%E6%8E%A8%E8%8D%90%E8%A1%A8/2346544?fr=aladdin)
-[什么是协议书？](https://baike.baidu.com/item/%E5%B0%B1%E4%B8%9A%E5%8D%8F%E8%AE%AE?fromtitle=%E5%B0%B1%E4%B8%9A%E5%8D%8F%E8%AE%AE%E4%B9%A6&fromid=962126)
+* [什么是推荐表？](https://baike.baidu.com/item/%E5%B0%B1%E4%B8%9A%E6%8E%A8%E8%8D%90%E8%A1%A8/2346544?fr=aladdin)
+* [什么是协议书？](https://baike.baidu.com/item/%E5%B0%B1%E4%B8%9A%E5%8D%8F%E8%AE%AE?fromtitle=%E5%B0%B1%E4%B8%9A%E5%8D%8F%E8%AE%AE%E4%B9%A6&fromid=962126)
+
+<!--more-->
 
 按照省就业指导中心及学院的相关规定，除了已经参加接本（报名并在继续教育学院登记注册）的学生之外，其他同学都需要领取就业推荐表和协议书，并按照要求填写协议书并提交给学院就业部门。
 
