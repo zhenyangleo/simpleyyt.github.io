@@ -6,8 +6,8 @@
 # Site
 title: 時間膠囊
 subtitle: 杨振的博客
-description: 分享！工作！
-author: ZhenYang
+description: 分享！工作！生活！
+author: YangZhen
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: zh-Hans
 date_format: '%Y-%m-%d'
@@ -19,7 +19,7 @@ baseurl:
 permalink: /:year/:month/:day/:title/
 
 # Pagination
-paginate: 10
+paginate: 5
 #paginate_path: "/page:num/"
 #archive:
   #paginate: 10
@@ -88,13 +88,13 @@ keywords: "Jekyll, NexT"
 rss:
 
 # Specify the date when the site was setup
-since: 2015
+since: 2017
 
 # icon between year and author @Footer
 authoricon: heart
 
 # Footer `powered-by` and `theme-info` copyright
-copyright: true
+copyright: false
 
 # ---------------------------------------------------------------
 # SEO Settings
@@ -103,7 +103,7 @@ copyright: true
 # Canonical, set a canonical link tag in your jekyll, you could use it for your SEO of blog.
 # See: https://support.google.com/webmasters/answer/139066
 # Tips: Before you open this tag, remember set up your URL in _config.yml ( ex. url: http://yourdomain.com )
-canonical: true
+canonical: false
 
 # Change headers hierarchy on site-subtitle (will be main site description) and on all post/pages titles for better SEO-optimization.
 seo: false
@@ -152,8 +152,8 @@ menu_icons:
 # ---------------------------------------------------------------
 
 # Schemes
-scheme: Muse
-#scheme: Mist
+#scheme: Muse
+scheme: Mist
 #scheme: Pisces
 
 
@@ -305,8 +305,8 @@ excerpt_description: true
 # Automatically Excerpt. Not recommend.
 # Please use <!-- more --> in the post to control excerpt accurately.
 auto_excerpt:
-  enable: false
-  length: 150
+  enable: true
+  length: 0
 
 # Post meta display settings
 post_meta:
@@ -318,7 +318,7 @@ post_meta:
 # Post wordcount display settings
 post_wordcount:
   item_text: true
-  wordcount: false
+  wordcount: true
   min2read: false
   separated_meta: true
 
@@ -374,7 +374,7 @@ han: false
 #swiftype_key:
 
 # Baidu Analytics ID
-baidu_analytics: 70b7e141dfc0ea2b204682f94ab2e01a
+baidu_analytics: 
 
 # Duoshuo ShortName
 #duoshuo_shortname:
@@ -383,7 +383,7 @@ baidu_analytics: 70b7e141dfc0ea2b204682f94ab2e01a
 disqus:
   enable: false
   shortname: 
-  count: true
+  count: false
   # hide comments (visitors need to click to load the comments)
   # count need to be false when hide is true
   hide: false
@@ -474,9 +474,9 @@ facebook_comments_plugin:
 vkontakte_api:
   enable: false
   app_id:       #<app_id>
-  like:         true
-  comments:     true
-  num_of_posts: 10
+  like:         false
+  comments:     false
+  num_of_posts: 5
 
 # Star rating support to each article.
 # To get your ID visit https://widgetpack.com
