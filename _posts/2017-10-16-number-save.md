@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Excel如何在计算数据时对结果保留到十位整数
+tags: [excel, 数据, 十位, 整数]
 ---
+
+<!--more-->
 
 代码：
 
