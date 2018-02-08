@@ -11,6 +11,8 @@ title: 环境工程学院2017级新生接待方案
 
 点击下载[***应征入伍普通高等学校录取新生保留入学资格申请表***](http://7xqrll.com1.z0.glb.clouddn.com/%E5%BA%94%E5%BE%81%E5%85%A5%E4%BC%8D%E6%99%AE%E9%80%9A%E9%AB%98%E7%AD%89%E5%AD%A6%E6%A0%A1%E5%BD%95%E5%8F%96%E6%96%B0%E7%94%9F%E4%BF%9D%E7%95%99%E5%85%A5%E5%AD%A6%E8%B5%84%E6%A0%BC%E7%94%B3%E8%AF%B7%E8%A1%A8.doc)
 
+<!--more-->
+
 **新生报到流程图：**
 ![新生报到流程图](http://7xqrll.com1.z0.glb.clouddn.com/%E6%96%B0%E7%94%9F%E6%8A%A5%E5%88%B0%E6%B5%81%E7%A8%8B%E5%9B%BE-2017-c.jpg)
 
