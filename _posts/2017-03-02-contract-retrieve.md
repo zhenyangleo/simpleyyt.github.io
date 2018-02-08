@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 关于2017届毕业生协议书收取的通知
-tags: [协议书]
 ---
 
 <!--more-->
