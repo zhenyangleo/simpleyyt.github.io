@@ -12,6 +12,8 @@ sudo apt-get update
 sudo apt-get upgrade
 ```
 
+<!--more-->
+
 * 软件中心更新相关内部软件，此处有bug，不会显示**已经完成更新**，等待**安装**按钮变灰色后，重启下就好了
 
 * 百度`lantern git`，安装**lantern**，在所有软件中手动找到**启动应用程序**设置lantern自动启动
