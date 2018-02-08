@@ -80,7 +80,7 @@ alipay: http://7xqrll.com1.z0.glb.clouddn.com/%E6%94%AF%E4%BB%98%E5%AE%9D%E6%94%
 favicon: /assets/images/author.jpeg
 
 # Set default keywords (Use a comma to separate)
-keywords: "Jekyll, NexT, simpleyyt, yitao"
+keywords: "Jekyll, NexT"
 
 # Set rss to false to disable feed link.
 # Leave rss as empty to use site's feed link.
@@ -215,8 +215,7 @@ font:
 # Key is the link label showing to end users.
 # Value is the target link (E.g. GitHub: https://github.com/iissnan)
 social:
-  GitHub: https://github.com/simpleyyt
-  知乎: http://www.zhihu.com/people/yaoyit
+  GitHub: https://github.com/zhenyangleo
 
 
 # Social Links Icons
