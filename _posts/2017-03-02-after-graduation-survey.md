@@ -3,15 +3,13 @@ layout: post
 title: 苏州农业职业技术学院2016届毕业生就业与培养调查启事
 ---
 
-<!--more-->
-
-
-
 **亲爱的同学：**
 
 您好！
 
 母校诚邀您参与2016届毕业生届毕业生调查。
+
+<!--more-->
 
 1. 目前已经给2016届毕业生留给学校的邮箱（QQ邮箱或其他邮箱）里发送了调查问卷；
 2. 此外，还提供了一个公开答卷的链接网址（[***调查网址链接***](http://szai.njcdata.com:80/eweb/jyfx/wsdc/dywjdj.so?type=externalDj&ffid=QEmVoXHgcRUPUXszDVe8Rt)）;
