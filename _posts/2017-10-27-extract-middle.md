@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 如何在Excel单元格中提取数字中的一段？
-tags: [excel, 提取, 数字]
 ---
 
 <!--more-->
