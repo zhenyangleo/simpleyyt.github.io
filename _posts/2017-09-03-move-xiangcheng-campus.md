@@ -13,5 +13,7 @@ title: 2016级搬迁相城校区了！
 
 希望你们尽早适应新的环境新的生活！
 
+<!--more-->
+
 ![相城校区搬迁1](http://7xqrll.com1.z0.glb.clouddn.com/2017-09-03%20143058-%E7%9B%B8%E5%9F%8E%E6%A0%A1%E5%8C%BA%E6%90%AC%E8%BF%811.jpg)
 ![相城校区搬迁2](http://7xqrll.com1.z0.glb.clouddn.com/2017-09-03%20143104-%E7%9B%B8%E5%9F%8E%E6%A0%A1%E5%8C%BA%E6%90%AC%E8%BF%812.jpg)
