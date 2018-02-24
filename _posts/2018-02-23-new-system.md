@@ -20,3 +20,5 @@ title: 新学期换个新系统
 因此，继续windows10 pro走起，build 1709妥妥的。
 
 ![windows10-1709](http://7xqrll.com1.z0.glb.clouddn.com/20180223-windows10.png)
+
+<embed src='http://player.youku.com/player.php/sid/XMzIwNDA4OTk5Mg==/v.swf' allowFullScreen='true' quality='high' width='480' height='400' align='middle' allowScriptAccess='always' type='application/x-shockwave-flash'></embed>
