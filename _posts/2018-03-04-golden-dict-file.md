@@ -28,6 +28,7 @@ title: 好用的电脑端词典软件GoldenDict
 ![词典文件夹](http://7xqrll.com1.z0.glb.clouddn.com/2018004-%E8%AF%8D%E5%85%B8.png)  
 4. 然后打开应用程序文件`GoldenDict.exe`即可使用，使用界面如下：  
 ![程序界面](http://7xqrll.com1.z0.glb.clouddn.com/2018004-%E7%A8%8B%E5%BA%8F%E7%95%8C%E9%9D%A2.png)  
+
 具体设置我就不一一介绍了，有兴趣的可以自己摸索下！
 
 如果懒得自己设置，那就下载我打包好的程序文件+自用词典：  
