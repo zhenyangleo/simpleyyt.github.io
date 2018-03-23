@@ -28,9 +28,7 @@ title: Jekyll中插入优酷视频的方法
 **2018年3月23日更新**    
 更新插入HTML5视频的方法，可以在iPhone上播放！    
 代码如下    
-`<iframe width="400" height="300" src="http://player.youku.com/embed/XMzIwNDA4OTk5Mg==" frameborder="0" allowfullscreen> </iframe>
-`    
-
+`<iframe width="400" height="300" src="http://player.youku.com/embed/XMzIwNDA4OTk5Mg==" frameborder="0" allowfullscreen> </iframe>`     
 效果如下：    
 <iframe width="400" height="300" src="http://player.youku.com/embed/XMzIwNDA4OTk5Mg==" frameborder="0" allowfullscreen> </iframe>
 
