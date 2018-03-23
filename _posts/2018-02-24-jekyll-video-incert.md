@@ -27,4 +27,4 @@ title: Jekyll中插入优酷视频的方法
 
 <iframe width="420" height="315" src="http://player.youku.com/embed/XMzIwNDA4OTk5Mg==" frameborder="0" allowfullscreen> </iframe>
 
-<iframe height="498" width="510" src="http://player.youku.com/embed/XMzIwNDA4OTk5Mg==" frameborder=""0 allowfullscreen> </iframe>
+<iframe height="498" width="510" src="http://player.youku.com/embed/XMzIwNDA4OTk5Mg==" frameborder="0" allowfullscreen> </iframe>
