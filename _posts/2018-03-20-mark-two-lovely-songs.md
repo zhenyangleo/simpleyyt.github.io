@@ -4,7 +4,7 @@ title: MARK两首找了很久的风格相似的纯音乐
 ---
 
 **Villanelle**    
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&ampid=4351614&ampauto=1&ampheight=66"> </iframe>
+<embed src="//music.163.com/style/swf/widget.swf?sid=4351614&type=2&auto=1&width=320&height=66" width="340" height="86"  allowNetworking="all">
 
 **Arrival Of The Birds**    
 <embed src="//music.163.com/style/swf/widget.swf?sid=4351614&type=2&auto=1&width=320&height=66" width="340" height="86"  allowNetworking="all">    
