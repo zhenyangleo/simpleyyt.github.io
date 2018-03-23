@@ -24,3 +24,6 @@ title: Jekyll中插入优酷视频的方法
 *当然，请使用带有flashplayer播放器的浏览器播放，自测iPhone上的safari是无法播放的。*  
 
 <embed src='http://player.youku.com/player.php/sid/XMzIwNDA4OTk5Mg==/v.swf' allowFullScreen='true' quality='high' width='480' height='400' align='middle' allowScriptAccess='always' type='application/x-shockwave-flash'>
+
+
+<iframe width="480" height="360" src="http://www.youtube.com/embed/WO82PoAczTc" frameborder="0"> </iframe>
