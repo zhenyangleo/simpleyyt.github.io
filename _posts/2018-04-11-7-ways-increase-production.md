@@ -8,6 +8,8 @@ title: 七种提高本地食物产量的方法
 
 In Massachusetts, only 15 percent of the food consumed by residents is produced in the state. 15 percent! If there were a world food crisis (or just California turning into a dust bowl), we would be in serious trouble. The same is true for many states, particularly in the colder climates.
 
+<!--more-->
+
 在马赛诸塞州，食物消费中只有15%是产自州内。只有15%！如果出现全球食物危机的话（或者说仅仅是加利福利亚变成了沙尘暴区），那我们就惹上大麻烦了。其他很多州的情况也一样，特别是那些所处地区更冷的州。
 
 How do we go about feeding locals in any climate? How do cities pile vegetable patches on top of its citizens? We have a few ideas:
