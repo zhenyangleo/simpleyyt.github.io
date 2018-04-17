@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 拔剑神曲“Bios”现场版炸裂
+title: 拔剑神曲“Bios”录音棚版炸裂向
 ---
 
 Sawano Hiroyuki [nZk] - Bios ft. Mika Kobayashi (Live Studio Performance)
