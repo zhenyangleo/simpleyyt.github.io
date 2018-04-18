@@ -56,3 +56,21 @@ title: 关于举办苏州农业职业技术学院第六届大学生职业规划�
 [附件2：2018年苏州农业职业技术学院第六届职业规划大赛院（系）初赛信息汇总表](http://7xqrll.com1.z0.glb.clouddn.com/20180417-%E9%99%84%E4%BB%B62%EF%BC%9A2018%E5%B9%B4%E8%8B%8F%E5%B7%9E%E5%86%9C%E4%B8%9A%E8%81%8C%E4%B8%9A%E6%8A%80%E6%9C%AF%E5%AD%A6%E9%99%A2%E7%AC%AC%E5%85%AD%E5%B1%8A%E8%81%8C%E4%B8%9A%E8%A7%84%E5%88%92%E5%A4%A7%E8%B5%9B%E9%99%A2%EF%BC%88%E7%B3%BB%EF%BC%89%E5%88%9D%E8%B5%9B%E4%BF%A1%E6%81%AF%E6%B1%87%E6%80%BB%E8%A1%A8.xls)    
 [附件3：计划书模板参考](https://pan.baidu.com/s/1uU7EMB0SBDOZFZ9J31fGEA)    
 密码: pwuq   
+
+
+# 参赛方法
+
+1. 登陆网址：[http://www.jsbys.com.cn/zygh/](http://www.jsbys.com.cn/zygh/)    
+2. 按照步骤注册并完成作品提交：    
+<iframe width="400" height="300" src="http://player.youku.com/embed/XMjc3MDIyNjE2MA==" frameborder="0" allowfullscreen></iframe>    
+3. 完成作品提交后，请每位同学将提交后的网页页面截屏，与自己的职业生涯规划书一起打包，提交给每个班级的班长，由班长汇总后提交给各班级班主任，然后由各班级班主任汇总至杨振老师处。    
+4. 截止日期：2018年4月28日    
+
+完成后截屏如下如：（必须体现自己的姓名，并且显示“恭喜你，提交作品成功”！）
+![完成后截图](http://7xqrll.com1.z0.glb.clouddn.com/2017-05-17%2021%2030%2027-%E4%BD%9C%E5%93%81%E6%8F%90%E4%BA%A4%E6%88%90%E5%8A%9F.png)
+
+注意：请将你的截图和你的职业生涯规划书word/pdf文档打包，并将包裹文件以你的姓名命名发送给班长！
+如下图：
+![打包截图](http://7xqrll.com1.z0.glb.clouddn.com/2017-05-18%2009%2058%2043-%E6%89%93%E5%8C%85%E6%88%AA%E5%9B%BE.png)
+
+
