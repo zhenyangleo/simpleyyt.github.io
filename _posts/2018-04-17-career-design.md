@@ -71,6 +71,12 @@ title: 关于举办苏州农业职业技术学院第六届大学生职业规划�
 
 <iframe width="400" height="300" src="http://player.youku.com/embed/XMjc3MDIyNjE2MA==" frameborder="0" allowfullscreen></iframe>       
 
+规划书的具体内容如下：
+
+![规划书的具体内容](http://7xqrll.com1.z0.glb.clouddn.com/20180420-%E8%A7%84%E5%88%92%E4%B9%A6%E5%85%B7%E4%BD%93%E5%86%85%E5%AE%B9.jpg)
+
+如在系统中按照系统要求逐步做评测完成规划的话，结构则于上图类似。如果自己下载模板填写内容的话，则需要按照以上模板的目录结构进行！
+
 **截止日期：2018年5月15日。**    
 
 # 参赛对象
