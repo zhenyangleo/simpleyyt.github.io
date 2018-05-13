@@ -22,7 +22,7 @@ title: 好用的电脑端词典软件GoldenDict
 这里只讨论便携版的使用  
 
 1. 下载自己电脑兼容的goldendict版本的文件包，文件包为.zip或.7z文件  
-2. 解压文件获得goldendict软件的所有文件，在原有文件/文件夹的基础上，在软件文件夹下添加一个新的文件夹并命名为`portable`，如下图：  
+2. 解压文件获得goldendict软件的所有文件，在原有文件/文件夹的基础上，在软件文件夹下添加一个新的文件夹并命名为`portables`，如下图：  
 ![程序文件夹](http://7xqrll.com1.z0.glb.clouddn.com/2018004-goldendict%E6%96%87%E4%BB%B6%E5%A4%B9.png)  
 3. 将下载的词典文件拷贝到程序文件夹的`content`文件夹中，如下图：  
 ![词典文件夹](http://7xqrll.com1.z0.glb.clouddn.com/2018004-%E8%AF%8D%E5%85%B8.png)  
