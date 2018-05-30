@@ -3,7 +3,7 @@ layout: post
 title: 环境工程学院2018届毕业生返校相关安排
 ---
 
-<--!more-->
+<!--more-->
 
 1. 返校方案下载：
 [环境工程学院2018届毕业生返校相关安排.pdf](https://share.weiyun.com/59THPa6)
