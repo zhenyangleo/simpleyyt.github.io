@@ -29,7 +29,7 @@ title: 2019届（2016级）毕业生生源地审核的通知
 
 ![20180615-生源地确认教程-008](http://7xqrll.com1.z0.glb.clouddn.com/20180615-%E7%94%9F%E6%BA%90%E5%9C%B0%E7%A1%AE%E8%AE%A4%E6%95%99%E7%A8%8B-008.PNG)    
 
-![20180615-生源地确认教程-009](http://7xqrll.com1.z0.glb.clouddn.com/20180615-%E7%94%9F%E6%BA%90%E5%9C%B0%E7%A1%AE%E8%AE%A4%E6%95%99%E7%A8%8B-008.PNG)    
+![20180615-生源地确认教程-009](http://7xqrll.com1.z0.glb.clouddn.com/20180615-%E7%94%9F%E6%BA%90%E5%9C%B0%E7%A1%AE%E8%AE%A4%E6%95%99%E7%A8%8B-009.PNG)    
 
 或参考以下网址的教程：
 
