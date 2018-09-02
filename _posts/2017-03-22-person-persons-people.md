@@ -16,7 +16,7 @@ WTF！！
 
 于是赶紧Google了一下，如下：
 
-![person persons people](http://7xqrll.com1.z0.glb.clouddn.com/2017-03-22%2010%2052%2007-person-persons-people.png)
+![person persons people](https://raw.githubusercontent.com/zhenyangleo/zhenyangleo.github.io/master/post-image/20170322-person-persons-people.png)
 
 原来persons这个复数形式是一种非常正式的用法，会用在法律文本等正式的场合，原来如此。
 
