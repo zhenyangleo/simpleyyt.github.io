@@ -11,4 +11,4 @@ Excel表格的行高和列宽默认都没有以厘米为单位，但是有的时
 
 在Excel表格中选择`视图`选项，点击左边的`页面布局`，在弹出的视图中再进行行高和列宽的修改的话，出来的衡量单位就是“cm”了。
 
-![视图-页面布局](http://7xqrll.com1.z0.glb.clouddn.com/2017-03-09%2010%2016%2046-%E9%80%89%E6%8B%A9%E9%A1%B5%E9%9D%A2%E5%B8%83%E5%B1%80.png)
+![视图-页面布局](https://github.com/zhenyangleo/zhenyangleo.github.io/blob/master/post-image/20170309-%E9%80%89%E6%8B%A9%E9%A1%B5%E9%9D%A2%E5%B8%83%E5%B1%80.png)
