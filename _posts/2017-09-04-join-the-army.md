@@ -15,4 +15,4 @@ title: 想要改变吗？去当兵吧！
 
 <!--more-->
 
-![当兵归来的孩子](http://7xqrll.com1.z0.glb.clouddn.com/2017-09-04%20154711-%E5%BD%93%E5%85%B5%E5%BD%92%E6%9D%A5.jpg)
+![当兵归来的孩子](https://raw.githubusercontent.com/zhenyangleo/zhenyangleo.github.io/master/post-image/20170904-%E5%BD%93%E5%85%B5%E5%BD%92%E6%9D%A5.jpg)
