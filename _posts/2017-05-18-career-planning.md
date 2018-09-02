@@ -26,4 +26,4 @@ title: 江苏省第十二届大学生职业规划大赛参赛须知
 
 注意：请将你的截图和你的职业生涯规划书word文档打包，并将包裹文件以你的姓名命名发送给班长！
 如下图：
-![打包截图](https://raw.githubusercontent.com/zhenyangleo/zhenyangleo.github.io/master/post-image/20170518-%E6%89%93%E5%8C%85%E6%88%AA%E5%9B%BE.pngg)
+![打包截图](https://raw.githubusercontent.com/zhenyangleo/zhenyangleo.github.io/master/post-image/20170518-%E6%89%93%E5%8C%85%E6%88%AA%E5%9B%BE.png)
