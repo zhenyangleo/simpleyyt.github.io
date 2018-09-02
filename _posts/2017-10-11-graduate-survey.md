@@ -13,41 +13,22 @@ title: 关于参加“2017年本专科毕业生调查第二阶段问卷”的通
 界面如下：
 点击右方“用户登录”，等待跳转。
 
-![登录界面](http://7xqrll.com1.z0.glb.clouddn.com/20171212-%E7%99%BB%E5%BD%95%E7%95%8C%E9%9D%A2.png)
+![登录界面](https://raw.githubusercontent.com/zhenyangleo/zhenyangleo.github.io/master/post-image/20171212-%E7%99%BB%E5%BD%95%E7%95%8C%E9%9D%A2.png)
 
 在跳转后的页面选择“学生登录”；请按照要求填写个人就业网用户名、密码登陆；如密码忘记请联系各院系就业专员。
 
-![学生登录](http://7xqrll.com1.z0.glb.clouddn.com/20171212-%E5%AD%A6%E7%94%9F%E7%99%BB%E5%BD%95.png)
+![学生登录](https://raw.githubusercontent.com/zhenyangleo/zhenyangleo.github.io/master/post-image/20171212-%E5%AD%A6%E7%94%9F%E7%99%BB%E5%BD%95.png)
 
 登录后显示欢迎页面，请点击“主页”回到学生主页界面。
 
-![登录跳转](http://7xqrll.com1.z0.glb.clouddn.com/20171212-%E7%99%BB%E5%BD%95%E8%B7%B3%E8%BD%AC.png)
+![登录跳转](https://raw.githubusercontent.com/zhenyangleo/zhenyangleo.github.io/master/post-image/20171212-%E7%99%BB%E5%BD%95%E8%B7%B3%E8%BD%AC.png)
 
 在学生主页的右方自己的姓名上悬停，会显示出“参与全省就业调查”选项，单击进入调查界面。
 
-![调查入口](http://7xqrll.com1.z0.glb.clouddn.com/20171212-%E8%B0%83%E6%9F%A5%E5%85%A5%E5%8F%A3-C.png)
+![调查入口](https://raw.githubusercontent.com/zhenyangleo/zhenyangleo.github.io/master/post-image/20171212-%E8%B0%83%E6%9F%A5%E5%85%A5%E5%8F%A3.png)
 
 调查界面如下：
 完成调查后请务必点击提交！
 
-![调查界面](http://7xqrll.com1.z0.glb.clouddn.com/20171212-%E8%B0%83%E6%9F%A5%E7%95%8C%E9%9D%A2.png)
+![调查界面](https://raw.githubusercontent.com/zhenyangleo/zhenyangleo.github.io/master/post-image/20171212-%E8%B0%83%E6%9F%A5%E7%95%8C%E9%9D%A2.png)
 
----
-**以下是旧版界面教程**
-界面如下：
-请按照要求填写个人就业网用户名、密码登陆；如密码忘记请联系各院系就业专员。
-
-![登录界面](http://7xqrll.com1.z0.glb.clouddn.com/20161011-%E7%99%BB%E9%99%86%E7%95%8C%E9%9D%A2.png)
-
-登录后显示欢迎页面，请点击“主页”回到学生主页界面。
-
-![登录后跳转](http://7xqrll.com1.z0.glb.clouddn.com/20161011-%E7%99%BB%E9%99%86%E5%90%8E%E8%B7%B3%E8%BD%AC.png)
-
-在主页界面点击“参与全省就业调查”在打开的新窗口中完成调查。
-
-![学生主页](http://7xqrll.com1.z0.glb.clouddn.com/20161011-%E5%AD%A6%E7%94%9F%E4%B8%BB%E9%A1%B5-C.png)
-
-调查界面如下：
-完成调查后请务必点击提交！
-
-![调查界面](http://7xqrll.com1.z0.glb.clouddn.com/20161011-%E8%B0%83%E6%9F%A5%E7%95%8C%E9%9D%A2.png)
