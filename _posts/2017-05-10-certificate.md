@@ -35,4 +35,4 @@ title: 环境工程学院2017年环保类专业职业技能培训及鉴定情况
 2017年5月8日
 
 **相关附件下载：**
-[**化学检验工考试相关文件**](http://7xqrll.com1.z0.glb.clouddn.com/%E5%8C%96%E5%AD%A6%E6%A3%80%E9%AA%8C%E5%B7%A5%E8%80%83%E8%AF%95%E7%9B%B8%E5%85%B3%E6%96%87%E4%BB%B6.zip)
+[**化学检验工考试相关文件**](https://share.weiyun.com/5k0iPl9)
