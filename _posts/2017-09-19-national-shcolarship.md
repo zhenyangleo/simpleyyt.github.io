@@ -4,11 +4,11 @@ title: 2017年国家励志奖学金、助学金申请审批表填写要求
 ---
 
 **国家励志奖学金申请审批表填写要求**
-[**点此下载国家励志奖学金申请审批表**](http://7xqrll.com1.z0.glb.clouddn.com/20170918-%E5%9B%BD%E5%AE%B6%E5%8A%B1%E5%BF%97%E5%A5%96%E5%AD%A6%E9%87%91-%E7%94%B3%E8%AF%B7%E8%A1%A8.xls)
+[**点此下载国家励志奖学金申请审批表**](https://share.weiyun.com/5XHusq0)
 
 <!--more-->
 
-![国家励志奖学金-申请表](http://7xqrll.com1.z0.glb.clouddn.com/20170918-%E5%9B%BD%E5%AE%B6%E5%8A%B1%E5%BF%97%E5%A5%96%E5%AD%A6%E9%87%91-%E7%94%B3%E8%AF%B7%E8%A1%A8.jpg)
+![国家励志奖学金-申请表](https://raw.githubusercontent.com/zhenyangleo/zhenyangleo.github.io/master/post-image/20170918-%E5%9B%BD%E5%AE%B6%E5%8A%B1%E5%BF%97%E5%A5%96%E5%AD%A6%E9%87%91-%E7%94%B3%E8%AF%B7%E8%A1%A8.jpg)
 1. 填写本人姓名。
 2. 填写“男”或“女”。
 3. 按照格式“1998-01-01”填写。
@@ -32,8 +32,8 @@ title: 2017年国家励志奖学金、助学金申请审批表填写要求
 
 ---
 **国家助学金申请审批表填写要求**
-[***点此下载国家助学金申请审批表***](http://7xqrll.com1.z0.glb.clouddn.com/20170918-%E5%9B%BD%E5%AE%B6%E5%8A%A9%E5%AD%A6%E9%87%91-%E7%94%B3%E8%AF%B7%E8%A1%A8.xls)
-![国家助学金-申请表](http://7xqrll.com1.z0.glb.clouddn.com/20170918-%E5%9B%BD%E5%AE%B6%E5%8A%A9%E5%AD%A6%E9%87%91-%E7%94%B3%E8%AF%B7%E8%A1%A8.jpg)
+[***点此下载国家助学金申请审批表***](https://share.weiyun.com/5EV4gVZ)
+![国家助学金-申请表](https://raw.githubusercontent.com/zhenyangleo/zhenyangleo.github.io/master/post-image/20170918-%E5%9B%BD%E5%AE%B6%E5%8A%A9%E5%AD%A6%E9%87%91-%E7%94%B3%E8%AF%B7%E8%A1%A8.jpg)
 1. 填写本人姓名。
 2. 填写“男”或“女”。
 3. 按照格式“1998-01-01”填写。
