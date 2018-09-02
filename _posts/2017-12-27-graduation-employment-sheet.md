@@ -45,6 +45,6 @@ title: 关于发放2018届毕业生就业推荐表协议书的通知
 * `组织机构代码证`一栏中现在统一填写`统一社会信用代码`，该代码可以在企业的营业执照中找到。
 参考以下图片：
 
-![统一社会信用代码实例](http://7xqrll.com1.z0.glb.clouddn.com/%E7%BB%9F%E4%B8%80%E7%A4%BE%E4%BC%9A%E4%BF%A1%E7%94%A8%E4%BB%A3%E7%A0%81-withline.jpg)
+![统一社会信用代码实例](https://raw.githubusercontent.com/zhenyangleo/zhenyangleo.github.io/master/post-image/20171227-%E7%BB%9F%E4%B8%80%E7%A4%BE%E4%BC%9A%E4%BF%A1%E7%94%A8%E4%BB%A3%E7%A0%81.jpg)
 
-![协议书模板](http://7xqrll.com1.z0.glb.clouddn.com/%E5%8D%8F%E8%AE%AE%E4%B9%A6%E6%A8%A1%E6%9D%BF-Custom.jpg)
+![协议书模板](https://raw.githubusercontent.com/zhenyangleo/zhenyangleo.github.io/master/post-image/20171227-%E5%8D%8F%E8%AE%AE%E4%B9%A6%E6%A8%A1%E6%9D%BF.jpg)
