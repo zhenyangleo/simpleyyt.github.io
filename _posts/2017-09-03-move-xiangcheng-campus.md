@@ -15,5 +15,5 @@ title: 2016级搬迁相城校区了！
 
 <!--more-->
 
-![相城校区搬迁1](http://7xqrll.com1.z0.glb.clouddn.com/2017-09-03%20143058-%E7%9B%B8%E5%9F%8E%E6%A0%A1%E5%8C%BA%E6%90%AC%E8%BF%811.jpg)
-![相城校区搬迁2](http://7xqrll.com1.z0.glb.clouddn.com/2017-09-03%20143104-%E7%9B%B8%E5%9F%8E%E6%A0%A1%E5%8C%BA%E6%90%AC%E8%BF%812.jpg)
+![相城校区搬迁1](https://raw.githubusercontent.com/zhenyangleo/zhenyangleo.github.io/master/post-image/20170923-%E7%9B%B8%E5%9F%8E%E6%A0%A1%E5%8C%BA%E6%90%AC%E8%BF%811.jpg)
+![相城校区搬迁2](https://raw.githubusercontent.com/zhenyangleo/zhenyangleo.github.io/master/post-image/20170923-%E7%9B%B8%E5%9F%8E%E6%A0%A1%E5%8C%BA%E6%90%AC%E8%BF%812.jpg)
