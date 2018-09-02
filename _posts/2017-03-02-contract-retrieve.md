@@ -28,6 +28,6 @@ title: 关于2017届毕业生协议书收取的通知
 * `组织机构代码证`一栏中现在统一填写`统一社会信用代码`，该代码可以在企业的营业执照中找到。
 参考以下图片：
 
-![统一社会信用代码实例](https://github.com/zhenyangleo/zhenyangleo.github.io/blob/master/post-image/20170302-%E8%90%A5%E4%B8%9A%E6%89%A7%E7%85%A7%E6%A0%B7%E6%9C%AC.jpg)
+![统一社会信用代码实例](https://raw.githubusercontent.com/zhenyangleo/zhenyangleo.github.io/master/post-image/20170302-%E8%90%A5%E4%B8%9A%E6%89%A7%E7%85%A7%E6%A0%B7%E6%9C%AC.jpg)
 
-![协议书模板](https://github.com/zhenyangleo/zhenyangleo.github.io/blob/master/post-image/20170302-%E5%B0%B1%E4%B8%9A%E5%8D%8F%E8%AE%AE%E4%B9%A6%E6%8F%90%E4%BA%A4%E6%A0%B7%E6%9C%AC.jpg)
+![协议书模板](https://raw.githubusercontent.com/zhenyangleo/zhenyangleo.github.io/master/post-image/20170302-%E5%B0%B1%E4%B8%9A%E5%8D%8F%E8%AE%AE%E4%B9%A6%E6%8F%90%E4%BA%A4%E6%A0%B7%E6%9C%AC.jpg)
