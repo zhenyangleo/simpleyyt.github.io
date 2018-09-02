@@ -19,14 +19,5 @@ title: 2017届毕业生档案整理须知！
 就业报到证是落实学生个人档案的凭证。每位同学都必须凭借发放的就业报到证到本人档案派遣地办理档案落实。学院将在六月底七月初把学生的档案派遣到学生生源地（老家）的人才市场，7月会统一组织发放学生报到证，届时学生需联系班主任/杨振辅导员领取。学生在领取报到证后原则上两个月内去报到证上的人才中心办理档案落实，过期后人才中心不对档案的下落负责。个人档案每个同学只有一份，遗失补办程序非常繁杂，希望同学们本着自己未来人生事业发展的考虑，及时办理档案落实！
 
 **三、高效毕业证登记表填写要求**
-![高校毕业生登记表填写要求1](http://7xqrll.com1.z0.glb.clouddn.com/%E7%99%BB%E8%AE%B0%E8%A1%A801.jpg)
 
-![高校毕业生登记表填写要求2](http://7xqrll.com1.z0.glb.clouddn.com/%E7%99%BB%E8%AE%B0%E8%A1%A802.jpg)
-
-![高校毕业生登记表填写要求3](http://7xqrll.com1.z0.glb.clouddn.com/%E7%99%BB%E8%AE%B0%E8%A1%A803.jpg)
-
-![高校毕业生登记表填写要求4](http://7xqrll.com1.z0.glb.clouddn.com/%E7%99%BB%E8%AE%B0%E8%A1%A804.jpg)
-
-![高校毕业生登记表填写要求5](http://7xqrll.com1.z0.glb.clouddn.com/%E7%99%BB%E8%AE%B0%E8%A1%A805.jpg)
-
-[登记表填写要求PDF版本下载](http://7xqrll.com1.z0.glb.clouddn.com/%E9%AB%98%E6%A0%A1%E6%AF%95%E4%B8%9A%E7%94%9F%E7%99%BB%E8%AE%B0%E8%A1%A8%E5%A1%AB%E5%86%99%E9%A1%BB%E7%9F%A5.pdf)
+[登记表填写要求PDF版本下载](https://share.weiyun.com/5A6AxYD)
