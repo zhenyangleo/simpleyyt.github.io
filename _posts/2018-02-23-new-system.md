@@ -11,7 +11,7 @@ title: 新学期换个新系统
 
 偶然在网上看见deepin linux 15.5更新了，所以想去尝试下新的deepin是不是能够应付正常的使用了，于是一顿操作走起，下文件，刻光盘，装入，分区，装系统。  
 
-![deepin-15.5](http://7xqrll.com1.z0.glb.clouddn.com/20180223-deepin01.jpg)
+![deepin-15.5](https://raw.githubusercontent.com/zhenyangleo/zhenyangleo.github.io/master/post-image/20180223-deepin01.jpg)
 
 <!--more-->
 
@@ -19,4 +19,4 @@ title: 新学期换个新系统
 
 因此，继续windows10 pro走起，build 1709妥妥的。
 
-![windows10-1709](http://7xqrll.com1.z0.glb.clouddn.com/20180223-windows10.png)
+![windows10-1709](https://raw.githubusercontent.com/zhenyangleo/zhenyangleo.github.io/master/post-image/20180223-windows10.png)
