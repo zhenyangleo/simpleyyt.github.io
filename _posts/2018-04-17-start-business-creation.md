@@ -101,7 +101,7 @@ title: 关于组织参加第四届中国“互联网+”大学生创新创业大
 招生与就业创业处
 二〇一八年四月十七日
 
-[附件1、第四届江苏省“互联网+”大学生创新创业大赛“青年红色筑梦之旅”活动方案](http://7xqrll.com1.z0.glb.clouddn.com/20180417-%E9%99%84%E4%BB%B61%E3%80%81%E7%AC%AC%E5%9B%9B%E5%B1%8A%E6%B1%9F%E8%8B%8F%E7%9C%81%E2%80%9C%E4%BA%92%E8%81%94%E7%BD%91+%E2%80%9D%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%88%9B%E6%96%B0%E5%88%9B%E4%B8%9A%E5%A4%A7%E8%B5%9B%E2%80%9C%E9%9D%92%E5%B9%B4%E7%BA%A2%E8%89%B2%E7%AD%91%E6%A2%A6%E4%B9%8B%E6%97%85%E2%80%9D%E6%B4%BB%E5%8A%A8%E6%96%B9%E6%A1%88.doc)    
-[附件2、二级院系参赛项目数量分配表](http://7xqrll.com1.z0.glb.clouddn.com/20180417-%E9%99%84%E4%BB%B62%E3%80%81%E4%BA%8C%E7%BA%A7%E9%99%A2%E7%B3%BB%E5%8F%82%E8%B5%9B%E9%A1%B9%E7%9B%AE%E6%95%B0%E9%87%8F%E5%88%86%E9%85%8D%E8%A1%A8.xlsx)    
-[附件3、项目推荐表和汇总表](http://7xqrll.com1.z0.glb.clouddn.com/20180417-%E9%99%84%E4%BB%B63%E3%80%81%E9%A1%B9%E7%9B%AE%E6%8E%A8%E8%8D%90%E8%A1%A8%E5%92%8C%E6%B1%87%E6%80%BB%E8%A1%A8.doc)    
+[附件1、第四届江苏省“互联网+”大学生创新创业大赛“青年红色筑梦之旅”活动方案](https://share.weiyun.com/5aHRoiD)    
+[附件2、二级院系参赛项目数量分配表](https://share.weiyun.com/5FYbHn9)    
+[附件3、项目推荐表和汇总表](https://share.weiyun.com/5eCf3Pl)    
 
