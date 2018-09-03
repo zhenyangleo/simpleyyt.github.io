@@ -51,5 +51,5 @@ title: 关于2017-2018-2学期公共选修课选课的通知
 2018-1-3
 
 附件：
-* [附件1：学生选课操作指南](http://7xqrll.com1.z0.glb.clouddn.com/20180104-%E9%99%84%E4%BB%B61%EF%BC%9A%E5%AD%A6%E7%94%9F%E9%80%89%E8%AF%BE%E6%93%8D%E4%BD%9C%E6%8C%87%E5%8D%97.doc)
-* [附件2：尔雅平台使用手册](http://7xqrll.com1.z0.glb.clouddn.com/20180104-%E9%99%84%E4%BB%B62%EF%BC%9A%E5%B0%94%E9%9B%85%E5%B9%B3%E5%8F%B0%E4%BD%BF%E7%94%A8%E6%89%8B%E5%86%8C.doc)
+* [附件1：学生选课操作指南](https://share.weiyun.com/5D9d4Qp)
+* [附件2：尔雅平台使用手册](https://share.weiyun.com/5huK8UR)
