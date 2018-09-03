@@ -26,7 +26,7 @@ title: 关于17-18-2学期毕业补考报名的通知
 教务处    
 2018年3月30日
 
-[附件1：17-18-2学期毕业补考必修课报名表.xls](http://7xqrll.com1.z0.glb.clouddn.com/20180330-%E9%99%84%E4%BB%B61%EF%BC%9A17-18-2%E5%AD%A6%E6%9C%9F%E6%AF%95%E4%B8%9A%E8%A1%A5%E8%80%83%E5%BF%85%E4%BF%AE%E8%AF%BE%E6%8A%A5%E5%90%8D%E8%A1%A8.xls)    
-[附件2：17-18-2学期毕业补考公选课报名表.xls](http://7xqrll.com1.z0.glb.clouddn.com/20180330-%E9%99%84%E4%BB%B62%EF%BC%9A17-18-2%E5%AD%A6%E6%9C%9F%E6%AF%95%E4%B8%9A%E8%A1%A5%E8%80%83%E5%85%AC%E9%80%89%E8%AF%BE%E6%8A%A5%E5%90%8D%E8%A1%A8.xls)    
-[附件3：17-18-2学期毕业补考英语B级报名表.xls](http://7xqrll.com1.z0.glb.clouddn.com/20180330-%E9%99%84%E4%BB%B63%EF%BC%9A17-18-2%E5%AD%A6%E6%9C%9F%E6%AF%95%E4%B8%9A%E8%A1%A5%E8%80%83%E8%8B%B1%E8%AF%ADB%E7%BA%A7%E6%8A%A5%E5%90%8D%E8%A1%A8.xls)    
-[附件4：17-18-2学期毕业补考报名汇总表.xls](http://7xqrll.com1.z0.glb.clouddn.com/20180330-%E9%99%84%E4%BB%B64%EF%BC%9A17-18-2%E5%AD%A6%E6%9C%9F%E6%AF%95%E4%B8%9A%E8%A1%A5%E8%80%83%E6%8A%A5%E5%90%8D%E6%B1%87%E6%80%BB%E8%A1%A8.xls)    
+[附件1：17-18-2学期毕业补考必修课报名表.xls](https://share.weiyun.com/5U1VWyr)    
+[附件2：17-18-2学期毕业补考公选课报名表.xls](https://share.weiyun.com/5zdgbP0)    
+[附件3：17-18-2学期毕业补考英语B级报名表.xls](https://share.weiyun.com/5lBSWC1)    
+[附件4：17-18-2学期毕业补考报名汇总表.xls](https://share.weiyun.com/59FwDm7)    
