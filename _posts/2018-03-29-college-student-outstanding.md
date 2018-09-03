@@ -38,6 +38,6 @@ title: 关于开展2017年“大学生年度人物”评选活动的通知
 联系人：赵国庆    
 联系电话：66093217
 
-[附件1：大学生年度人物推荐事迹类别](http://7xqrll.com1.z0.glb.clouddn.com/20180329-%E9%99%84%E4%BB%B61%EF%BC%9A%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%B9%B4%E5%BA%A6%E4%BA%BA%E7%89%A9%E6%8E%A8%E8%8D%90%E4%BA%8B%E8%BF%B9%E7%B1%BB%E5%88%AB.docx)    
-[附件2：2017江苏省大学生年度人物评选活动参选人报名表](http://7xqrll.com1.z0.glb.clouddn.com/20180329-%E9%99%84%E4%BB%B62%EF%BC%9A2017%E6%B1%9F%E8%8B%8F%E7%9C%81%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%B9%B4%E5%BA%A6%E4%BA%BA%E7%89%A9%E8%AF%84%E9%80%89%E6%B4%BB%E5%8A%A8%E5%8F%82%E9%80%89%E4%BA%BA%E6%8A%A5%E5%90%8D%E8%A1%A8.docx)
+[附件1：大学生年度人物推荐事迹类别](https://share.weiyun.com/5hJj5pA)    
+[附件2：2017江苏省大学生年度人物评选活动参选人报名表](https://share.weiyun.com/5dKNaTK)
 
