@@ -25,4 +25,4 @@ title: 烧鱼
 
 我还是放弃烧鱼吧！Orz！
 
-![鱼](http://7xqrll.com1.z0.glb.clouddn.com/20170224-%E9%B1%BC.jpg)
+![鱼](https://raw.githubusercontent.com/zhenyangleo/zhenyangleo.github.io/master/post-image/20180224-%E9%B1%BC.jpg)
