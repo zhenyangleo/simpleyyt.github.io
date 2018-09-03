@@ -33,7 +33,7 @@ title: 关于开展2018年首届“创青春”苏州农业职业技术学院大
 招生与就业创业处    
 2018年4月2日    
 
-[附件1：参赛说明](http://7xqrll.com1.z0.glb.clouddn.com/20180403_%E9%99%84%E4%BB%B61%EF%BC%9A%E5%8F%82%E8%B5%9B%E8%AF%B4%E6%98%8E.docx)   
-[附件2：报名表](http://7xqrll.com1.z0.glb.clouddn.com/20180403_%E9%99%84%E4%BB%B62%EF%BC%9A%E6%8A%A5%E5%90%8D%E8%A1%A8.docx)    
+[附件1：参赛说明](https://share.weiyun.com/5qW7RuL)   
+[附件2：报名表](https://share.weiyun.com/5Xh50cg)    
 [附件3：供参考的16年金奖作品书](https://pan.baidu.com/s/1uU7EMB0SBDOZFZ9J31fGEA 密码: pwuq)    
 提取密码：pwuq    
