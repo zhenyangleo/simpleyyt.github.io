@@ -52,8 +52,8 @@ title: 关于举办苏州农业职业技术学院第六届大学生职业规划�
 素质教育中心     
 2018年4月17日    
 
-[附件1：苏教办指[2018]3号省教育厅办公室关于举办“武进人才杯”江苏省第十三届大学生职业规划大赛的通知](http://7xqrll.com1.z0.glb.clouddn.com/20180417-%E9%99%84%E4%BB%B61%EF%BC%9A%E8%8B%8F%E6%95%99%E5%8A%9E%E6%8C%87%5B2018%5D3%E5%8F%B7%E7%9C%81%E6%95%99%E8%82%B2%E5%8E%85%E5%8A%9E%E5%85%AC%E5%AE%A4%E5%85%B3%E4%BA%8E%E4%B8%BE%E5%8A%9E%E2%80%9C%E6%AD%A6%E8%BF%9B%E4%BA%BA%E6%89%8D%E6%9D%AF%E2%80%9D%E6%B1%9F%E8%8B%8F%E7%9C%81%E7%AC%AC%E5%8D%81%E4%B8%89%E5%B1%8A%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%81%8C%E4%B8%9A%E8%A7%84%E5%88%92%E5%A4%A7%E8%B5%9B%E7%9A%84%E9%80%9A%E7%9F%A5.pdf)    
-[附件2：2018年苏州农业职业技术学院第六届职业规划大赛院（系）初赛信息汇总表](http://7xqrll.com1.z0.glb.clouddn.com/20180417-%E9%99%84%E4%BB%B62%EF%BC%9A2018%E5%B9%B4%E8%8B%8F%E5%B7%9E%E5%86%9C%E4%B8%9A%E8%81%8C%E4%B8%9A%E6%8A%80%E6%9C%AF%E5%AD%A6%E9%99%A2%E7%AC%AC%E5%85%AD%E5%B1%8A%E8%81%8C%E4%B8%9A%E8%A7%84%E5%88%92%E5%A4%A7%E8%B5%9B%E9%99%A2%EF%BC%88%E7%B3%BB%EF%BC%89%E5%88%9D%E8%B5%9B%E4%BF%A1%E6%81%AF%E6%B1%87%E6%80%BB%E8%A1%A8.xls)    
+[附件1：苏教办指[2018]3号省教育厅办公室关于举办“武进人才杯”江苏省第十三届大学生职业规划大赛的通知](https://share.weiyun.com/5q2MzGg)    
+[附件2：2018年苏州农业职业技术学院第六届职业规划大赛院（系）初赛信息汇总表](https://share.weiyun.com/5pvVERT)    
  
 
 
@@ -61,7 +61,7 @@ title: 关于举办苏州农业职业技术学院第六届大学生职业规划�
 
 **1. 登陆网址：[http://www.jsbys.com.cn/zygh/](http://www.jsbys.com.cn/zygh/)**    
 
-自己上传作品请参考模板：[模板下载](http://7xqrll.com1.z0.glb.clouddn.com/20170518-%E8%81%8C%E4%B8%9A%E7%94%9F%E6%B6%AF%E8%A7%84%E5%88%92%E4%B9%A6-%E6%A8%A1%E6%9D%BF.docx)
+自己上传作品请参考模板：[模板下载](https://share.weiyun.com/5SLnpkh)
 
 在下载的模板上进行修改，丰富自己的信息。职业评测可以在登录后的系统中做，也可以自行处理。
 
@@ -73,7 +73,7 @@ title: 关于举办苏州农业职业技术学院第六届大学生职业规划�
 
 规划书的具体内容如下：
 
-![规划书的具体内容](http://7xqrll.com1.z0.glb.clouddn.com/20180420-%E8%A7%84%E5%88%92%E4%B9%A6%E5%85%B7%E4%BD%93%E5%86%85%E5%AE%B9.jpg)
+![规划书的具体内容](https://raw.githubusercontent.com/zhenyangleo/zhenyangleo.github.io/master/post-image/20180417-%E8%A7%84%E5%88%92%E4%B9%A6%E5%85%B7%E4%BD%93%E5%86%85%E5%AE%B9.jpg)
 
 如在系统中按照系统要求逐步做评测完成规划的话，结构则于上图类似。如果自己下载模板填写内容的话，则需要按照以上模板的目录结构进行！
 
