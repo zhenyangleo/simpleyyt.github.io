@@ -23,5 +23,5 @@ title: 关于17-18-2学期毕业补考课程辅导及考试安排的通知
 教务处    
 二O一八年四月十六日
 
-[附件1：17-18-2学期毕业补考辅导及考试安排](http://7xqrll.com1.z0.glb.clouddn.com/20180416-%E9%99%84%E4%BB%B61%EF%BC%9A17-18-2%E5%AD%A6%E6%9C%9F%E6%AF%95%E4%B8%9A%E8%A1%A5%E8%80%83%E8%BE%85%E5%AF%BC%E5%8F%8A%E8%80%83%E8%AF%95%E5%AE%89%E6%8E%92.xls)    
-[附件2：尔雅平台使用手册+学生版](http://7xqrll.com1.z0.glb.clouddn.com/20180416-%E9%99%84%E4%BB%B62%EF%BC%9A%E5%B0%94%E9%9B%85%E5%B9%B3%E5%8F%B0%E4%BD%BF%E7%94%A8%E6%89%8B%E5%86%8C+%E5%AD%A6%E7%94%9F%E7%89%88.doc)
+[附件1：17-18-2学期毕业补考辅导及考试安排](https://share.weiyun.com/5EZPLOH)    
+[附件2：尔雅平台使用手册+学生版](https://share.weiyun.com/5uBVOWe)
