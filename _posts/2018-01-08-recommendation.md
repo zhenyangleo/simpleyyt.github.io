@@ -65,8 +65,8 @@ title: 关于做好2018年“专转本”自主招生推荐工作的通知
 
 二〇一八年一月五日
 
-* [附件1：省教育厅关于做好2018年普通高校“专转本”自主招生工作的通知](http://7xqrll.com1.z0.glb.clouddn.com/20180108-%E9%99%84%E4%BB%B61%EF%BC%9A%E7%9C%81%E6%95%99%E8%82%B2%E5%8E%85%E5%85%B3%E4%BA%8E%E5%81%9A%E5%A5%BD2018%E5%B9%B4%E6%99%AE%E9%80%9A%E9%AB%98%E6%A0%A1%E2%80%9C%E4%B8%93%E8%BD%AC%E6%9C%AC%E2%80%9D%E8%87%AA%E4%B8%BB%E6%8B%9B%E7%94%9F%E5%B7%A5%E4%BD%9C%E7%9A%84%E9%80%9A%E7%9F%A5.doc)
-* [附件2：2018年普通高校“专转本”自主招生推荐报名表](http://7xqrll.com1.z0.glb.clouddn.com/20180108-%E9%99%84%E4%BB%B62%EF%BC%9A2018%E5%B9%B4%E6%99%AE%E9%80%9A%E9%AB%98%E6%A0%A1%E2%80%9C%E4%B8%93%E8%BD%AC%E6%9C%AC%E2%80%9D%E8%87%AA%E4%B8%BB%E6%8B%9B%E7%94%9F%E6%8E%A8%E8%8D%90%E6%8A%A5%E5%90%8D%E8%A1%A8.docx)
-* [附件3：2018年“专转本”自主招生推荐名额分配表](http://7xqrll.com1.z0.glb.clouddn.com/20180108-%E9%99%84%E4%BB%B63%EF%BC%9A2018%E5%B9%B4%E2%80%9C%E4%B8%93%E8%BD%AC%E6%9C%AC%E2%80%9D%E8%87%AA%E4%B8%BB%E6%8B%9B%E7%94%9F%E6%8E%A8%E8%8D%90%E5%90%8D%E9%A2%9D%E5%88%86%E9%85%8D%E8%A1%A8.docx)
-* [附件4：2018年普通高校“专转本”自主招生推荐报名汇总表](http://7xqrll.com1.z0.glb.clouddn.com/20180108-%E9%99%84%E4%BB%B64%EF%BC%9A2018%E5%B9%B4%E6%99%AE%E9%80%9A%E9%AB%98%E6%A0%A1%E2%80%9C%E4%B8%93%E8%BD%AC%E6%9C%AC%E2%80%9D%E8%87%AA%E4%B8%BB%E6%8B%9B%E7%94%9F%E6%8E%A8%E8%8D%90%E6%8A%A5%E5%90%8D%E6%B1%87%E6%80%BB%E8%A1%A8.xlsx)
-* [附件5：苏州农业职业技术学院2018年“专转本”自主招生考试报名工作人员联系表](http://7xqrll.com1.z0.glb.clouddn.com/20180108-%E9%99%84%E4%BB%B65%EF%BC%9A%E8%8B%8F%E5%B7%9E%E5%86%9C%E4%B8%9A%E8%81%8C%E4%B8%9A%E6%8A%80%E6%9C%AF%E5%AD%A6%E9%99%A22018%E5%B9%B4%E2%80%9C%E4%B8%93%E8%BD%AC%E6%9C%AC%E2%80%9D%E8%87%AA%E4%B8%BB%E6%8B%9B%E7%94%9F%E8%80%83%E8%AF%95%E6%8A%A5%E5%90%8D%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E8%81%94%E7%B3%BB%E8%A1%A8.docx)
+* [附件1：省教育厅关于做好2018年普通高校“专转本”自主招生工作的通知](https://share.weiyun.com/5AWHzgy)
+* [附件2：2018年普通高校“专转本”自主招生推荐报名表](https://share.weiyun.com/5WmfVAF)
+* [附件3：2018年“专转本”自主招生推荐名额分配表](https://share.weiyun.com/5Wsc5f5)
+* [附件4：2018年普通高校“专转本”自主招生推荐报名汇总表](https://share.weiyun.com/5b9SY9q)
+* [附件5：苏州农业职业技术学院2018年“专转本”自主招生考试报名工作人员联系表](https://share.weiyun.com/5srFiIJ)
