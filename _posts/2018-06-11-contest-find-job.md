@@ -16,7 +16,7 @@ title: 关于参加江苏省第八届大学生就业创业知识竞赛的通知
 1、打开网址（**请右击“在新标签页中打开”或者“在新窗口打开”**）：[http://szai.91job.gov.cn/contest/explain](http://szai.91job.gov.cn/contest/explain)    
 2、拉到网页底端，点击“人人来竞赛”：    
 
-![人人来竞赛](http://7xqrll.com1.z0.glb.clouddn.com/20180611-%E4%BA%BA%E4%BA%BA%E6%9D%A5%E5%8F%82%E8%B5%9B-C.png)    
+![人人来竞赛](https://raw.githubusercontent.com/zhenyangleo/zhenyangleo.github.io/master/post-image/20180611-%E4%BA%BA%E4%BA%BA%E6%9D%A5%E5%8F%82%E8%B5%9B.png)    
 
 3、输入用户名和密码：    
 用户名为学生完整学号    
