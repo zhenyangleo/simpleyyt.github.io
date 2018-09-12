@@ -9,7 +9,7 @@ title: 关于2018级新生英语等级考试报名及缴费的通知
 
 # 一、考试时间
 
-[考试时间](https://raw.githubusercontent.com/zhenyangleo/zhenyangleo.github.io/master/post-image/20180912-contest-schedule.png)
+![考试时间](https://raw.githubusercontent.com/zhenyangleo/zhenyangleo.github.io/master/post-image/20180912-contest-schedule.png)
 
 <!--more-->
 
