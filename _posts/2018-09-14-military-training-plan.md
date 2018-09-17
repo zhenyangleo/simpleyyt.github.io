@@ -13,4 +13,6 @@ title: 2018级新生军事技能训练实施方案
 
 [附件四：苏州农业职业技术学院学生军训免修申请表](https://share.weiyun.com/5kBzcPh)
 
-[环境工程学院编制](https://share.weiyun.com/5ELqfn0)
+[环境工程学院编制](https://share.weiyun.com/5ryx5bO)
+
+[新生军训工作备用方案](https://share.weiyun.com/5EVfG1S)
