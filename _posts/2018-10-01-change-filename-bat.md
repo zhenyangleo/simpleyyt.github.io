@@ -19,3 +19,6 @@ ren命令指的是rename。
 
 将bat文件放入要批量命名的文件同一个文件夹下双击运行即可！（如果要bat文件运行后不自动退出，命令最后一行加入“pause”。）
 
+如想要修改文件名为，比如此例中修改为“学号-姓名”的格式，只需要适当修改下代码即可：    
+如图：    
+![生成学号-姓名格式文件](https://raw.githubusercontent.com/zhenyangleo/zhenyangleo.github.io/master/post-image/20181001-%E4%BB%A3%E7%A0%81%E7%94%9F%E6%88%90%E5%85%AC%E5%BC%8Fexcel-%E5%AD%A6%E5%8F%B7%2B%E5%A7%93%E5%90%8D.png)
