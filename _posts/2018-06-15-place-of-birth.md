@@ -15,4 +15,4 @@ title: 2019届（2016级）毕业生生源地审核的通知
 
 参考以下网址的教程：
 
-[https://share.weiyun.com/5eQSoSr](https://share.weiyun.com/5eQSoSr)
+已删除，待更新！
