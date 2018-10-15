@@ -31,4 +31,4 @@ title: 2018年国家助学金申请审批表填写要求
 
 填写完申请表后，请同学们务必注意补充以下个人信息：    
 
-<iframe height="800" allowTransparency="true" style="width:100%;border:none;overflow:auto;" frameborder="0" src="http://zhenyang.mikecrm.com/4u0fr8v"> </iframe>
+<iframe height="600" allowTransparency="true" style="width:100%;border:none;overflow:auto;" frameborder="0" src="http://zhenyang.mikecrm.com/4u0fr8v"> </iframe>
