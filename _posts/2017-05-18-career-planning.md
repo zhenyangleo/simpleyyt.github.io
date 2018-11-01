@@ -16,8 +16,8 @@ title: 江苏省第十二届大学生职业规划大赛参赛须知
 大家可以自行百度模板，进行创作：[百度模板](https://www.baidu.com/s?ie=UTF-8&wd=%E8%81%8C%E4%B8%9A%E7%94%9F%E6%B6%AF%E8%A7%84%E5%88%92%E4%B9%A6%E6%A8%A1%E6%9D%BF)
 
 
-注册及登陆提交作品视频教程：
-<embed src='http://player.youku.com/player.php/sid/XMjc3MDIyNjE2MA==/v.swf' allowFullScreen='true' quality='high' width='480' height='400' align='middle' allowScriptAccess='always' type='application/x-shockwave-flash'></embed>
+注册及登陆提交作品视频教程：    
+<iframe width="400" height="300" src="http://player.youku.com/embed/XMjc3MDIyNjE2MA==" frameborder="0" allowfullscreen></iframe>
 
 完成作品提交后，请每位同学将提交后的网页页面截屏，与自己的职业生涯规划书一起打包，提交给每个班级的班长，由班长汇总后提交给各班级班主任，然后由各班级班主任汇总至杨振老师处。请各位同学于5月22日前完成，请各位班主任于5月24日前将所有同学的网页截屏和职业生涯规划书一同提交给杨振老师作为留档。
 
