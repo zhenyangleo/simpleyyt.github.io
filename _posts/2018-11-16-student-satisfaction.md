@@ -25,6 +25,10 @@ title: 关于开展2018-2019-1学期期中学生评教及学生满意度问卷�
 
 4、调查网址：[192.168.1.165](http://192.168.1.165/stufc/login/logindex)（**需在学校内网登录，可用学校或图书馆机房的pc端或已连接学校无线网SZAI的手机端都可登录，手机4G网络不能登陆。请各位同学在宿舍用电脑链接有线网，或者去图书馆机房做**），登录账号为9位数学号，初始密码123456。
 
+具体流程如下视频：    
+<iframe width="400" height="300" src="http://player.youku.com/embed/XMzkyNjE3MjkyOA==" frameborder="0" allowfullscreen></iframe>
+
+
 质量监控与评价中心    
 2018-11-15
 
