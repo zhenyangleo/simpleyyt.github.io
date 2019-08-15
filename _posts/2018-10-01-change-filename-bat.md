@@ -10,7 +10,7 @@ title: 如何批量指定修改文件名【学生学号转姓名（身份证号�
 首先要利用excel表格生成命令：
 
 ![excel生成命令截图](https://raw.githubusercontent.com/zhenyangleo/zhenyangleo.github.io/master/post-image/20181001-%E4%BB%A3%E7%A0%81%E7%94%9F%E6%88%90%E5%85%AC%E5%BC%8Fexcel.png)    
-其中：C3是修改前的文件名，C2是修改后的文件名。后缀可以根据自己的需要去修改，如果是批量命名其他文件格式的文件名的话可以用到。    
+其中：C2是修改前的文件名，B2是修改后的文件名。后缀可以根据自己的需要去修改，如果是批量命名其他文件格式的文件名的话可以用到。    
 ren命令指的是rename。    
 
 [文件批量修改指定文件名命令生成excel下载](https://share.weiyun.com/5NZYvdN)
