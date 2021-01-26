@@ -10,7 +10,7 @@ title: 2018年国家助学金申请审批表填写要求
 
 **国家助学金申请审批表填写要求**
 [***点此下载国家助学金申请审批表***](https://share.weiyun.com/5EV4gVZ)    
-![国家助学金-申请表](https://raw.githubusercontent.com/zhenyangleo/zhenyangleo.github.io/master/post-image/20181015-%E5%9B%BD%E5%AE%B6%E5%8A%A9%E5%AD%A6%E9%87%91-%E7%94%B3%E8%AF%B7%E8%A1%A8.jpg)    
+![国家助学金-申请表](https://zhenyangleo.github.io/post-image/20181015-%E5%9B%BD%E5%AE%B6%E5%8A%A9%E5%AD%A6%E9%87%91-%E7%94%B3%E8%AF%B7%E8%A1%A8.jpg)    
 
 1. 填写本人姓名。
 2. 填写“男”或“女”。
