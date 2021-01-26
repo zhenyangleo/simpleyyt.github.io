@@ -15,7 +15,7 @@ title: 苏州农业职业技术学院2016届毕业生就业与培养调查启事
 2. 此外，还提供了一个公开答卷的链接网址（[***调查网址链接***](http://szai.njcdata.com:80/eweb/jyfx/wsdc/dywjdj.so?type=externalDj&ffid=QEmVoXHgcRUPUXszDVe8Rt)）;
 3. 或者扫下面的二维码直接答题，学生通过三条途径中任意一条途径答卷即可。
 
-![母校毕业调查二维码](https://raw.githubusercontent.com/zhenyangleo/zhenyangleo.github.io/master/post-image/20170302-%E6%AF%8D%E6%A0%A1%E6%AF%95%E4%B8%9A%E8%B0%83%E6%9F%A5%E4%BA%8C%E7%BB%B4%E7%A0%81.png)
+![母校毕业调查二维码](https://zhenyangleo.github.io/post-image/20170302-%E6%AF%8D%E6%A0%A1%E6%AF%95%E4%B8%9A%E8%B0%83%E6%9F%A5%E4%BA%8C%E7%BB%B4%E7%A0%81.png)
 
 **调查只需3-5分钟，您的举手之劳是对母校就业工作的大力支持！**
 
@@ -25,4 +25,4 @@ title: 苏州农业职业技术学院2016届毕业生就业与培养调查启事
 
 已在学院就业网发布
 
-![苏州农业职业技术学院2016届毕业生就业与培养调查启事](https://raw.githubusercontent.com/zhenyangleo/zhenyangleo.github.io/master/post-image/20170302-%E8%8B%8F%E5%B7%9E%E5%86%9C%E4%B8%9A%E8%81%8C%E4%B8%9A%E6%8A%80%E6%9C%AF%E5%AD%A6%E9%99%A22016%E5%B1%8A%E6%AF%95%E4%B8%9A%E7%94%9F%E5%B0%B1%E4%B8%9A%E4%B8%8E%E5%9F%B9%E5%85%BB%E8%B0%83%E6%9F%A5%E5%90%AF%E4%BA%8B.jpg)
+![苏州农业职业技术学院2016届毕业生就业与培养调查启事](https://zhenyangleo.github.io/post-image/20170302-%E8%8B%8F%E5%B7%9E%E5%86%9C%E4%B8%9A%E8%81%8C%E4%B8%9A%E6%8A%80%E6%9C%AF%E5%AD%A6%E9%99%A22016%E5%B1%8A%E6%AF%95%E4%B8%9A%E7%94%9F%E5%B0%B1%E4%B8%9A%E4%B8%8E%E5%9F%B9%E5%85%BB%E8%B0%83%E6%9F%A5%E5%90%AF%E4%BA%8B.jpg)
