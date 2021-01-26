@@ -18,7 +18,7 @@ title: 关于组织学生参加第三届全国大学生预防艾滋病知识竞�
 
 请用qq或微信扫描二维码登陆答题！
 
-![二维码](https://raw.githubusercontent.com/zhenyangleo/zhenyangleo.github.io/master/post-image/20181110-%E4%BA%8C%E7%BB%B4%E7%A0%81.png)
+![二维码](https://zhenyangleo.github.io/post-image/20181110-%E4%BA%8C%E7%BB%B4%E7%A0%81.png)
 
 # 成绩提交及积点计算    
 1、只有成绩及格（达到60分）才可以取得相应的积点（2个积点，成绩优异获奖的同学按名次分别会有加分），没有达到60分的同学不能取得积点。达到60分的同学不仅能够取得积点，同时可以获得相应的电子证书。    
