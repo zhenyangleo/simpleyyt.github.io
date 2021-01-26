@@ -12,27 +12,27 @@ title: 关于做好我院2018年度兵役登记工作的通知
 
 # 登记方式:    
 登陆网址：[http://www.gfbzb.gov.cn/](http://www.gfbzb.gov.cn/) 然后按照以下步骤进行    
-![兵役登记步骤](https://raw.githubusercontent.com/zhenyangleo/zhenyangleo.github.io/master/post-image/20170505-%E5%85%B5%E5%BD%B9%E7%99%BB%E8%AE%B0%E6%B5%81%E7%A8%8B.png)
+![兵役登记步骤](https://zhenyangleo.github.io/post-image/20170505-%E5%85%B5%E5%BD%B9%E7%99%BB%E8%AE%B0%E6%B5%81%E7%A8%8B.png)
 
 ## 特别注意最后一项应征地应选择“苏州农业职业技术学院”并选择“**只进行兵役登记**；想要应征入伍的同学酌情按实际情况填写”
 
 # 完成登记后事务：    
 完成登记后：每位同学需要下载登记报表（pdf格式），并登记报表的“网登编号”，如下图：    
 ## 1、报表打印    
-![报表打印](https://raw.githubusercontent.com/zhenyangleo/zhenyangleo.github.io/master/post-image/20180424-%E6%8A%A5%E8%A1%A8%E6%89%93%E5%8D%B0.png)    
+![报表打印](https://zhenyangleo.github.io/post-image/20180424-%E6%8A%A5%E8%A1%A8%E6%89%93%E5%8D%B0.png)    
 ## 2、网登编号格式（网登编号在pdf表格的左上角会显示，每个登记的公民的编号是唯一的）    
-![网登编号](https://raw.githubusercontent.com/zhenyangleo/zhenyangleo.github.io/master/post-image/20180424-%E7%BD%91%E7%99%BB%E7%BC%96%E5%8F%B7.png)    
+![网登编号](https://zhenyangleo.github.io/post-image/20180424-%E7%BD%91%E7%99%BB%E7%BC%96%E5%8F%B7.png)    
 
 
 **如有同学因为高中已经进行过兵役登记，或者由老家的武装部门代为登记，无法完成注册的，会出现以下几种情况：**    
 
 ## 1、注册后登记时显示身份证已被使用    
-![01注册后登记时显示身份证已被使用](https://raw.githubusercontent.com/zhenyangleo/zhenyangleo.github.io/master/post-image/20180424-01%E6%B3%A8%E5%86%8C%E5%90%8E%E7%99%BB%E8%AE%B0%E6%97%B6%E6%98%BE%E7%A4%BA%E8%BA%AB%E4%BB%BD%E8%AF%81%E5%B7%B2%E8%A2%AB%E4%BD%BF%E7%94%A8.png)    
+![01注册后登记时显示身份证已被使用](https://zhenyangleo.github.io/post-image/20180424-01%E6%B3%A8%E5%86%8C%E5%90%8E%E7%99%BB%E8%AE%B0%E6%97%B6%E6%98%BE%E7%A4%BA%E8%BA%AB%E4%BB%BD%E8%AF%81%E5%B7%B2%E8%A2%AB%E4%BD%BF%E7%94%A8.png)    
 ## 2、注册后登记时显示已由武装部代为兵役登记    
-![02注册后登记时显示已由武装部代为兵役登记](https://raw.githubusercontent.com/zhenyangleo/zhenyangleo.github.io/master/post-image/20180424-02%E6%B3%A8%E5%86%8C%E5%90%8E%E7%99%BB%E8%AE%B0%E6%97%B6%E6%98%BE%E7%A4%BA%E5%B7%B2%E7%94%B1%E6%AD%A6%E8%A3%85%E9%83%A8%E4%BB%A3%E4%B8%BA%E5%85%B5%E5%BD%B9%E7%99%BB%E8%AE%B0.png)    
+![02注册后登记时显示已由武装部代为兵役登记](https://zhenyangleo.github.io/post-image/20180424-02%E6%B3%A8%E5%86%8C%E5%90%8E%E7%99%BB%E8%AE%B0%E6%97%B6%E6%98%BE%E7%A4%BA%E5%B7%B2%E7%94%B1%E6%AD%A6%E8%A3%85%E9%83%A8%E4%BB%A3%E4%B8%BA%E5%85%B5%E5%BD%B9%E7%99%BB%E8%AE%B0.png)    
 
 此类同学只需将出现注册或者登记页面的网页截图并以自己的学号-姓名命名，并把截图发送给班长统一汇总即可，如下图：    
-![问题截图](https://raw.githubusercontent.com/zhenyangleo/zhenyangleo.github.io/master/post-image/20180424-%E9%97%AE%E9%A2%98%E6%88%AA%E5%9B%BE.png)    
+![问题截图](zhenyangleo.github.io/post-image/20180424-%E9%97%AE%E9%A2%98%E6%88%AA%E5%9B%BE.png)    
 
 登记完毕之后，请每位同学将以下表格中的相关信息统一提供给各班班长，由班长统计完毕后发送至杨振老师邮箱：519742535@qq.com，错误信息一并打包发送。
 
