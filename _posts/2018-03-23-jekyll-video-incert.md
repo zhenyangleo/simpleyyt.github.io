@@ -9,7 +9,7 @@ title: Jekyll中插入优酷视频的方法（2018年3月23日更新HTML5视频�
 
 如下：
 
-![优酷分享代码](https://raw.githubusercontent.com/zhenyangleo/zhenyangleo.github.io/master/post-image/20180224-%E5%88%86%E4%BA%AB%E4%BB%A3%E7%A0%81.png)  
+![优酷分享代码](https://zhenyangleo.github.io/post-image/20180224-%E5%88%86%E4%BA%AB%E4%BB%A3%E7%A0%81.png)  
 
 <!--more-->
 
