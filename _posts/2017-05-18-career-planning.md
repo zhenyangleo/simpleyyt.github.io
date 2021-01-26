@@ -22,8 +22,8 @@ title: 江苏省第十二届大学生职业规划大赛参赛须知
 完成作品提交后，请每位同学将提交后的网页页面截屏，与自己的职业生涯规划书一起打包，提交给每个班级的班长，由班长汇总后提交给各班级班主任，然后由各班级班主任汇总至杨振老师处。请各位同学于5月22日前完成，请各位班主任于5月24日前将所有同学的网页截屏和职业生涯规划书一同提交给杨振老师作为留档。
 
 完成后截屏如下如：（必须体现自己的姓名，并且显示“恭喜你，提交作品成功”！）
-![完成后截图](https://raw.githubusercontent.com/zhenyangleo/zhenyangleo.github.io/master/post-image/20170518-%E4%BD%9C%E5%93%81%E6%8F%90%E4%BA%A4%E6%88%90%E5%8A%9F.png)
+![完成后截图](https://zhenyangleo.github.io/post-image/20170518-%E4%BD%9C%E5%93%81%E6%8F%90%E4%BA%A4%E6%88%90%E5%8A%9F.png)
 
 注意：请将你的截图和你的职业生涯规划书word文档打包，并将包裹文件以你的姓名命名发送给班长！
 如下图：
-![打包截图](https://raw.githubusercontent.com/zhenyangleo/zhenyangleo.github.io/master/post-image/20170518-%E6%89%93%E5%8C%85%E6%88%AA%E5%9B%BE.png)
+![打包截图](https://zhenyangleo.github.io/post-image/20170518-%E6%89%93%E5%8C%85%E6%88%AA%E5%9B%BE.png)
