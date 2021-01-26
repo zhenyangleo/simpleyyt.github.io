@@ -16,8 +16,8 @@ title: 这次微软给力！
 
 下面是一个翻译的小例子，我是随意在网上找了一个最新的新闻进行翻译的。    
 可以看出来，右边的翻译更加的具话，更能够为读者接受。    
-![翻译例子](https://raw.githubusercontent.com/zhenyangleo/zhenyangleo.github.io/master/post-image/20180318-translation-C-E.png)    
+![翻译例子](https://zhenyangleo.github.io/post-image/20180318-translation-C-E.png)    
 
 这个例子就更加明显了，右边的翻译是可以直接拿来用的水准，这个态势发展下去，机器翻译在绝大多数情况下代替人工翻译也不是不可能啊！    
-![翻译例子2](https://raw.githubusercontent.com/zhenyangleo/zhenyangleo.github.io/master/post-image/20180318-%E5%AE%A3%E8%AA%93%E4%BE%8B%E5%AD%90.png)    
+![翻译例子2](https://zhenyangleo.github.io/post-image/20180318-%E5%AE%A3%E8%AA%93%E4%BE%8B%E5%AD%90.png)    
 
