@@ -70,7 +70,7 @@ plugins:
  - jekyll-sitemap
  - jekyll-feed
 
-alipay: https://raw.githubusercontent.com/zhenyangleo/zhenyangleo.github.io/master/assets/images/%E6%94%AF%E4%BB%98%E5%AE%9D%E6%94%B6%E6%AC%BE.jpg
+alipay: https://zhenyangleo.github.io/assets/images/%E6%94%AF%E4%BB%98%E5%AE%9D%E6%94%B6%E6%AC%BE.jpg
 
 # ---------------------------------------------------------------
 # Site Information Settings
