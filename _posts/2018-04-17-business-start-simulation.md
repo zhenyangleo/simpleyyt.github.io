@@ -11,7 +11,7 @@ title: 关于开展苏州市创业模拟实训班的通知
 
 ## 一、开班安排
 
-![开班安排](https://raw.githubusercontent.com/zhenyangleo/zhenyangleo.github.io/master/post-image/20180417-%E5%BC%80%E7%8F%AD%E5%AE%89%E6%8E%92.png)
+![开班安排](https://zhenyangleo.github.io/post-image/20180417-%E5%BC%80%E7%8F%AD%E5%AE%89%E6%8E%92.png)
 
 ## 二、报名要求
 
@@ -24,7 +24,7 @@ title: 关于开展苏州市创业模拟实训班的通知
 
 **参加培训并考核合格者颁发：创业实训（模拟公司）学员培训合格证**
 
-![创业实训（模拟公司）学员培训合格证](https://raw.githubusercontent.com/zhenyangleo/zhenyangleo.github.io/master/post-image/20180417-%E5%88%9B%E4%B8%9A%E5%AE%9E%E8%AE%AD%EF%BC%88%E6%A8%A1%E6%8B%9F%E5%85%AC%E5%8F%B8%EF%BC%89%E5%AD%A6%E5%91%98%E5%9F%B9%E8%AE%AD%E5%90%88%E6%A0%BC%E8%AF%81.png)
+![创业实训（模拟公司）学员培训合格证](https://zhenyangleo.github.io/post-image/20180417-%E5%88%9B%E4%B8%9A%E5%AE%9E%E8%AE%AD%EF%BC%88%E6%A8%A1%E6%8B%9F%E5%85%AC%E5%8F%B8%EF%BC%89%E5%AD%A6%E5%91%98%E5%9F%B9%E8%AE%AD%E5%90%88%E6%A0%BC%E8%AF%81.png)
 
 **凭借此证可享受国家相关创业资助政策！**
 
