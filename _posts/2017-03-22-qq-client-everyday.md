@@ -11,7 +11,7 @@ title: 每天面对的QQ 囧rz
 
 但是最近整理了下QQ的好友列表和群列表，越来越觉得，这么下去，我离买QQ会员也不远了。
 
-![QQ截图](https://raw.githubusercontent.com/zhenyangleo/zhenyangleo.github.io/master/post-image/20170322-QQ%E8%BD%AF%E4%BB%B6%E6%88%AA%E5%9B%BE.png)
+![QQ截图](https://zhenyangleo.github.io/post-image/20170322-QQ%E8%BD%AF%E4%BB%B6%E6%88%AA%E5%9B%BE.png)
 
 光是学生的人数就就两百多人，学校的老师也有好几十人，更别说自己本人的好友了。
 
