@@ -32,7 +32,7 @@ title: 关于做好我院2018年度兵役登记工作的通知
 ![02注册后登记时显示已由武装部代为兵役登记](https://zhenyangleo.github.io/post-image/20180424-02%E6%B3%A8%E5%86%8C%E5%90%8E%E7%99%BB%E8%AE%B0%E6%97%B6%E6%98%BE%E7%A4%BA%E5%B7%B2%E7%94%B1%E6%AD%A6%E8%A3%85%E9%83%A8%E4%BB%A3%E4%B8%BA%E5%85%B5%E5%BD%B9%E7%99%BB%E8%AE%B0.png)    
 
 此类同学只需将出现注册或者登记页面的网页截图并以自己的学号-姓名命名，并把截图发送给班长统一汇总即可，如下图：    
-![问题截图](zhenyangleo.github.io/post-image/20180424-%E9%97%AE%E9%A2%98%E6%88%AA%E5%9B%BE.png)    
+![问题截图](https://zhenyangleo.github.io/post-image/20180424-%E9%97%AE%E9%A2%98%E6%88%AA%E5%9B%BE.png)    
 
 登记完毕之后，请每位同学将以下表格中的相关信息统一提供给各班班长，由班长统计完毕后发送至杨振老师邮箱：519742535@qq.com，错误信息一并打包发送。
 
