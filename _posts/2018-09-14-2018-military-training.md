@@ -35,4 +35,4 @@ title: 校本部2018级新生开学典礼暨军训动员大会通知
 
 请认真组织，准时参加。
 
-![附件：2018级新生开学典礼暨军训动员大会场地示意图](https://raw.githubusercontent.com/zhenyangleo/zhenyangleo.github.io/master/post-image/20180914-2018-military-training-map.png)
+![附件：2018级新生开学典礼暨军训动员大会场地示意图](https://zhenyangleo.github.io/post-image/20180914-2018-military-training-map.png)
