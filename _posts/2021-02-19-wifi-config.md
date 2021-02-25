@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Wifi 配置
+title: WIFI配置
 ---
 
 
